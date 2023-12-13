@@ -1,0 +1,22 @@
+{
+    "token": "",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "NUKERS TERRITORY",
+            "AIZER X VIRUS X PROBOY",
+            "https://discord.gg/ntop",
+            "ntop"
+        ],
+        "roles_name": [
+            "NUKERS TERRITORY",
+            "NTOP",
+            "AIZER X VIRUS X PROBOY"
+        ],
+        "messages_content": [
+            "@everyone https://discord.gg/ntop",
+            "@everyone **Aizer x Virus x Proboy**",
+            "@everyone NUKERS TERRITORY"
+        ]
+    }
+}
